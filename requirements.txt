@@ -1,0 +1,2 @@
+slack-bolt==1.22.0
+pydantic==2.10.6
